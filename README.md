@@ -25,5 +25,6 @@ Setup Instructions:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/live-translator.git
+git clone https://github.com/Iza-3435/LiveTranslation.git
 cd live-translator
+
